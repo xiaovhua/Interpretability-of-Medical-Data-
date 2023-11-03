@@ -2,4 +2,4 @@ Domain Shift (DS) means the distributions of source domain (e.g. training data) 
 
 ![DomainShift](https://github.com/xiaovhua/Interpretability-of-Medical-Data-/blob/main/png/DomainShift.gif)
 
-To overcome DS, one popular method is to extract domain-invariant representations, which works well in both source domain and target domain.
+To overcome DS, one popular method is to extract domain-invariant representations, which can work well in both source domain and target domain.
