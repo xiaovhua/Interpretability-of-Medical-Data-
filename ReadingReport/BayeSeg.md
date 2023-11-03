@@ -1,3 +1,5 @@
+# BayeSeg: Bayesian Modeling for Medical Image Segmentation with Interpretable Generalizability
+
 This is the reading report from paper ["BayeSeg: Bayesian Modeling for Medical Image Segmentation with Interpretable Generalizability"](https://arxiv.org/abs/2303.01710), 
 their code can be found in ["https://zmiclab.github.io/projects.html"](https://zmiclab.github.io/projects.html).
 
