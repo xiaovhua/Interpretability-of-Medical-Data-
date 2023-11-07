@@ -10,5 +10,6 @@ Depending on whether the data from target domain is available, the techniques fo
 Domain adaptation (DA) aims to address the DS problems where target domain data is available.
 
 # Domain Generalization
-Domain Generalization (DG) is 
-To overcome DS, one popular method is to extract domain-invariant representations, which can work well in both source domain and target domain.
+Domain generalization (DG) is to address the DS problems where target domain data is not available. To generalize into unseen domain, data-based, learning-based, and representation-based methods can be applied to enrich model representation.
+##### Data-based Method.
+sad
