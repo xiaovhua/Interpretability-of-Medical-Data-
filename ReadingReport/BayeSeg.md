@@ -10,7 +10,7 @@ and currently works as a postdoctoral researcher in University of Oxford, direct
 [Domain Shift](https://github.com/xiaovhua/Interpretability-of-Medical-Data-/blob/main/Concept/Domain%20Shift.md) is common in medical problems. Extracting domain-invariant features is one of the most popular methods for the issue, but the **_interpretability of domain-invariant features_** remains a challenge. To this end, the authors proposed an interpretable Bayesian framework termed BayeSeg for medical image segmentation. 
 
 Specifically, 
-###### (1) They assumed that an image can be represented by a spatial-correlated variable and a spatial-variant variable, and assigned hierarchical Bayesian priors to explicitly force them to model the domain-stable shape and domain-specific appearance information respectively; 
-###### (2) They modeled the segmentation as a locally smooth variable only related to the spatial-correlated variable, or termed domain-stable shape;
-###### (3)  
+##### (1) They assumed that an image can be represented by a spatial-correlated variable and a spatial-variant variable, and assigned hierarchical Bayesian priors to explicitly force them to model the domain-stable shape and domain-specific appearance information respectively; 
+##### (2) They modeled the segmentation as a locally smooth variable only related to the spatial-correlated variable, or termed domain-stable shape;
+##### (3)  
 
