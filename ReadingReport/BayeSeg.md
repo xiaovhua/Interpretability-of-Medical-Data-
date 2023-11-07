@@ -11,6 +11,10 @@ and currently works as a postdoctoral researcher in University of Oxford, direct
 
 Specifically, 
 ##### (1) They assumed that an image can be represented by a spatial-correlated variable and a spatial-variant variable, and assigned hierarchical Bayesian priors to explicitly force them to model the domain-stable (cross-domain) shape and domain-specific (inter-domain) appearance information respectively; 
-##### (2) They modeled the segmentation as a locally smooth variable only related to the spatial-correlated variable, or termed domain-stable shape;
-##### (3)  
+##### (2) They modeled the segmentation as a locally smooth variable only related to the spatial-correlated variable, or termed domain-stable (cross-domain) shape;
+##### (3) They develop a variational Bayesian framework to infer the posterior distributions of these explainable variables (shape, apperance, segmentation)
 
+Prostate segmentation and cardiac segmentation tasks are applied for evaluation.
+
+
+### Related Work
