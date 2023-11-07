@@ -4,7 +4,7 @@ Domain shift (DS) means the distributions of source domain (e.g. training data) 
 
 ![DomainShift](https://github.com/xiaovhua/Interpretability-of-Medical-Data-/blob/main/png/DomainShift.gif)
 
-Depending on whether the data from the target domain is available, the techniques for addressing DS can be divided into domain adaptation and domain generalization.
+Depending on whether the data from target domain is available, the techniques for addressing DS can be divided into domain adaptation and domain generalization.
 
 # Domain Adaptation
 Domain adaptation (DA) aims to address the DS problems where target domain data is available.
