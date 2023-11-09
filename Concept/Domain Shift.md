@@ -12,7 +12,7 @@ Domain adaptation (DA) aims to address the DS problems where target domain data 
 # Domain Generalization
 Domain generalization (DG) is to address the DS problems where target domain data is not available. To generalize into unseen domain, data-based, learning-based, and representation-based methods can be applied to enrich model representation.
 #### Data-based Method
-The data-based methods try to enrich the diversity of training data by data augmentation or data generalization. These methods are effective for small distribution shifts but can be _*vulnerable to significant domain gaps*_. 
+The data-based methods try to enrich the diversity of training data by data augmentation or data generalization. These methods are effective for small distribution shifts but can be **_vulnerable to significant domain gaps_**. 
 #### Learning-based Method
 The learning-based methods aim to combine knowledge from training domains by specific strategies, including ensemble learning and meta-learning. These methods have achieved promising performance on specific target domain, but limiting the number of source domains could weaken their generalization ability.
 
