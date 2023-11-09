@@ -15,6 +15,9 @@ Domain generalization (DG) is to address the DS problems where target domain dat
 The data-based methods try to enrich the diversity of training data by data augmentation or data generalization. These methods are effective for small distribution shifts but can be **_vulnerable to significant domain gaps_**. 
 #### Learning-based Method
 The learning-based methods aim to combine knowledge from training domains by specific strategies, including ensemble learning and meta-learning. These methods have achieved promising performance on specific target domain, but **_limiting the number of source domains could weaken their generalization ability_**.
+#### Representation-based Method
+The representation-based methods are developed to extract domain-invariant features through feature alignment or feature disentanglement.
+
 
 # Reference:
 Gao S, Zhou H, Gao Y, et al. BayeSeg: Bayesian Modeling for Medical Image Segmentation with Interpretable Generalizability. Medical Image Analysis, 2023.
