@@ -16,6 +16,5 @@ Specifically, in order to extract interpretable domain-invariant features, the a
 
 Prostate segmentation and cardiac segmentation tasks are applied for evaluation.
 
-
 ### Related Work
 
