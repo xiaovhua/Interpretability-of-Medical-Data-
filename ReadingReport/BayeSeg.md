@@ -17,4 +17,8 @@ Specifically, in order to extract interpretable domain-invariant features, the a
 Prostate segmentation and cardiac segmentation tasks are applied for evaluation.
 
 ### Related Work
+In their prior work in image super-resolution [1], they show that statistical modeling can improve model interpretability and generalization capability. Therefore, they extend their work into medical image segmentation, and explore explicit modeling for shape information, which represents structures of organs.
 
+
+# Reference
+1. Gao, S., Zhuang, X., 2023. Bayesian image super-resolution with deep modeling of image statistics. IEEE Transactions on Pattern Analysis and Machine Intelligence 45, 1405–1423.
